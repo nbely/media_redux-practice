@@ -1,5 +1,34 @@
 {
-    "users": [],
-    "albums": [],
-    "photos": []
+  "users": [
+    {
+      "id": "d280",
+      "name": "Harvey Kreiger"
+    },
+    {
+      "id": "9474",
+      "name": "Darrel Zemlak PhD"
+    },
+    {
+      "id": "dc3b",
+      "name": "Anne Krajcik"
+    }
+  ],
+  "albums": [
+    {
+      "id": "ef54",
+      "title": "Hiking Trip",
+      "userId": "d280"
+    },
+    {
+      "id": "a194",
+      "userId": "d280",
+      "title": "Unbranded Plastic Chair"
+    },
+    {
+      "id": "7e71",
+      "userId": "dc3b",
+      "title": "Modern Frozen Soap"
+    }
+  ],
+  "photos": []
 }
